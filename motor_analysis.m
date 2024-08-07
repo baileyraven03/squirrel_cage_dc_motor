@@ -1,5 +1,3 @@
-
-%% This code below is designed to fullfil the requirements of question 5 for EEE223's semester 1 Asignment (Aerospace)
 %% Below I use the parameters given and calculate to graphically plot the motor-torque-speed and stator-current-speed charictaristics over a slip range from 1 to 0.048
 %% Date 02/03/2024
 %% Written by Bailey Raven
